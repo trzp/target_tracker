@@ -1,6 +1,6 @@
 # KCF tracker in Python
 
-* 基于kcf tracker in python项目的多进程跟踪类，查看tracker_mul_pro
+# 基于kcf tracker in python项目的多进程跟踪类，查看tracker_mul_pro
 
 Python implementation of
 > [High-Speed Tracking with Kernelized Correlation Filters](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)<br>
